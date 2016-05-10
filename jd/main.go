@@ -8,8 +8,8 @@ import (
 
 	"github.com/codegangsta/cli"
 
-	diff "github.com/yudai/gojsondiff"
-	"github.com/yudai/gojsondiff/formatter"
+	diff "github.com/gavv/gojsondiff"
+	"github.com/gavv/gojsondiff/formatter"
 )
 
 func main() {
