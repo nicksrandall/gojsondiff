@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	diff "github.com/gavv/gojsondiff"
+	diff "github.com/nicksrandall/gojsondiff"
 )
 
 const (
